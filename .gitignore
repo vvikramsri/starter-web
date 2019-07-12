@@ -1,2 +1,4 @@
 filetoignore.txt
 log
+*.orig
+*.bak
