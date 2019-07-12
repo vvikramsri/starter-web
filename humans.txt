@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+PLease leave a review
     <name>
 Thanks to everyone
 # TECHNOLOGY COLOPHON
