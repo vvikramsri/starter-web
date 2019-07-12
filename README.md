@@ -1,3 +1,4 @@
+Adding a line for rebasing exmaple
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
